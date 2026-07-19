@@ -1,58 +1,50 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
 
-# Ansh Gupta
+<h3 align="center">
+Software Engineer • ML Enthusiast • Problem Solver
+</h3>
 
-### Software Engineer • Machine Learning Enthusiast • Problem Solver
-
-> *"Curiosity drives the code. Consistency builds the engineer."*
-
-<img src="https://komarev.com/ghpvc/?username=anshgupta-456&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anshgupta-456&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
-I'm an undergraduate student passionate about building software that is reliable, scalable, and useful.
+```cpp
+class AnshGupta {
 
-I enjoy working across the software stack—from designing backend systems and APIs to experimenting with machine learning, computer vision, and developer tools. Most of my time is spent learning by building, reading documentation, and solving problems that push me to improve.
+public:
+
+    string education = "B.Tech (ECE)";
+    string interests[] = {
+        "Software Engineering",
+        "Machine Learning",
+        "Computer Vision",
+        "Backend Development",
+        "Open Source"
+    };
+
+    void currentlyLearning() {
+        cout << "Building • Learning • Improving";
+    }
+};
+```
 
 ---
 
-# 🚀 Currently
-
-- 📚 Learning advanced software architecture
-- ⚙️ Building full-stack applications
-- 🧩 Solving DSA & competitive programming problems
-- 🧠 Exploring Machine Learning and Computer Vision
-- 🌱 Contributing to open source whenever possible
-
----
-
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,fastapi,flask,pytorch,tensorflow,opencv,docker,git,github,linux,postgres,sqlite,supabase,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,fastapi,flask,pytorch,tensorflow,opencv,docker,git,github,linux,postgres,sqlite,vscode&perline=7"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshgupta-456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-456&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -66,7 +58,7 @@ I enjoy working across the software stack—from designing backend systems and A
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 
 </p>
 
@@ -82,58 +74,43 @@ I enjoy working across the software stack—from designing backend systems and A
 
 ---
 
-# 📌 Interests
-
-```text
-• Software Engineering
-• Machine Learning
-• Computer Vision
-• Backend Development
-• Distributed Systems
-• Developer Tools
-• Open Source
-```
-
----
-
-# 📖 Philosophy
-
-```cpp
-while (!success)
-{
-    learn();
-    build();
-    improve();
-}
-```
-
----
-
-# 🌟 GitHub Metrics
-
-> Configure **lowlighter/metrics** GitHub Action and the image below will update automatically.
+# 💻 Languages & Tools
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/anshgupta-456/anshgupta-456/main/github-metrics.svg"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,docker,git,linux,postgres"/>
 
 </p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Machine Learning
+- Distributed Systems
+- Computer Vision
+- Backend Architecture
+- Competitive Programming
+
+---
+
+# 📈 GitHub Metrics
+
+<img src="./github-metrics.svg" width="100%">
 
 ---
 
 # 🐍 Contribution Snake
 
-> Enable the snake GitHub Action to display your contribution animation.
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/anshgupta-456/anshgupta-456/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/anshgupta-456/anshgupta-456/output/github-contribution-grid-snake-dark.svg">
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect
 
 <p align="center">
 
@@ -141,13 +118,13 @@ while (!success)
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -157,10 +134,8 @@ while (!success)
 
 ---
 
-<div align="center">
+<p align="center">
 
-### Thanks for visiting!
+> "Keep building. Keep learning."
 
-*"The best way to predict the future is to build it."*
-
-</div>
+</p>
