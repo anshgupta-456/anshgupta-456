@@ -54,13 +54,7 @@ public:
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
-
-</p>
 
 ---
 
