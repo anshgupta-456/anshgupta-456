@@ -1,29 +1,166 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ansh15023305) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013216986842) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshgupta1502) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-gupta-7b9a92291/) 
+# Ansh Gupta
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshgupta-456&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshgupta-456&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-456&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Software Engineer • Machine Learning Enthusiast • Problem Solver
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+> *"Curiosity drives the code. Consistency builds the engineer."*
 
+<img src="https://komarev.com/ghpvc/?username=anshgupta-456&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anshgupta-456&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshgupta-456&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 👋 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm an undergraduate student passionate about building software that is reliable, scalable, and useful.
+
+I enjoy working across the software stack—from designing backend systems and APIs to experimenting with machine learning, computer vision, and developer tools. Most of my time is spent learning by building, reading documentation, and solving problems that push me to improve.
+
+---
+
+# 🚀 Currently
+
+- 📚 Learning advanced software architecture
+- ⚙️ Building full-stack applications
+- 🧩 Solving DSA & competitive programming problems
+- 🧠 Exploring Machine Learning and Computer Vision
+- 🌱 Contributing to open source whenever possible
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nextjs,nodejs,fastapi,flask,pytorch,tensorflow,opencv,docker,git,github,linux,postgres,sqlite,supabase,vscode&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshgupta-456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta-456&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=anshgupta-456&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshgupta-456&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshgupta-456&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Interests
+
+```text
+• Software Engineering
+• Machine Learning
+• Computer Vision
+• Backend Development
+• Distributed Systems
+• Developer Tools
+• Open Source
+```
+
+---
+
+# 📖 Philosophy
+
+```cpp
+while (!success)
+{
+    learn();
+    build();
+    improve();
+}
+```
+
+---
+
+# 🌟 GitHub Metrics
+
+> Configure **lowlighter/metrics** GitHub Action and the image below will update automatically.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/anshgupta-456/anshgupta-456/main/github-metrics.svg"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the snake GitHub Action to display your contribution animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/anshgupta-456/anshgupta-456/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/anshgupta-456">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+*"The best way to predict the future is to build it."*
+
+</div>
