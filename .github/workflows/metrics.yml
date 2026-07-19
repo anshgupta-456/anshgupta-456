@@ -13,22 +13,22 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: anshgupta-456
 
           template: classic
-
           base: header, activity, community, repositories, metadata
 
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
 
           plugin_habits: yes
           plugin_followup: yes
           plugin_isocalendar: yes
-          plugin_lines: yes
           plugin_stars: yes
+          plugin_topics: yes
