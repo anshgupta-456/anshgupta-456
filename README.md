@@ -58,12 +58,12 @@ Backend and AI engineer with internship and research experience in **retrieval-a
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/anshgupta-456/ripple">RIPPLE</a></b> · <sub>Oct 2026</sub><br/>
+      <b><a href="https://github.com/anshgupta-456/ripple">RIPPLE</a></b> · <sub>Sep – Oct 2026</sub><br/>
       AI teammate for merchant support: finds the earliest fixable cause, acts behind an action firewall, verifies closure. 44-case adversarial suite, zero unsafe actions.<br/>
       <code>FastAPI</code> <code>React</code> <code>SSE</code> <code>OIDC</code>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/anshgupta-456/internoa">LLM Engineering Lab</a></b> · <sub>Nov 2026</sub><br/>
+      <b><a href="https://github.com/anshgupta-456/internoa">LLM Engineering Lab</a></b> · <sub>Oct – Nov 2026</sub><br/>
       LoRA / QLoRA fine-tune of Qwen2.5, RAG from scratch over RFC 6749 (bge-m3 + FAISS + BM25), and FP16 vs Q8 vs Q4 benchmarks in Ollama.<br/>
       <code>PyTorch</code> <code>PEFT</code> <code>FAISS</code> <code>Ollama</code>
     </td>
@@ -76,16 +76,16 @@ Backend and AI engineer with internship and research experience in **retrieval-a
 
 | When | Project | What it is |
 | --- | --- | --- |
-| Sep&nbsp;2026 | 🔒 **RASP** | Shows naive anytime stopping in spiking networks under-covers (0.77 vs 0.90 on DSEC); alpha-spending restores validity |
-| Aug&nbsp;2026 | [**Aayu OS**](https://github.com/anshgupta-456/aayu_os) | Produce shelf-life "OS" with a physics + vision filter and hash-chained ledger · HackNite Code Royale 2026 |
-| Mar&nbsp;2026 | [**Geo-Sat**](https://github.com/anshgupta-456/geo-sat) | FastAPI + PostGIS disaster-response API with CNN-BiLSTM and Transformer models |
-| Feb&nbsp;2026 | 🔒 **Software Bug Prediction** | Replicated a defect-prediction study on 8 NASA / PROMISE datasets, above 76% AUC on each |
-| Feb&nbsp;2026 | [**SahAI**](https://github.com/anshgupta-456/sahai) | Classroom accessibility: blackboard OCR, Whisper notes, translation, offline on AMD ROCm |
-| Jan&nbsp;2026 | 🔒 **Narrative Consistency Engine** | Claim-based LLM checks of character backstories against whole novels · Kharagpur Data Science Hackathon 2026 |
-| Jan&nbsp;2026 | [**GG Nexus**](https://github.com/anshgupta-456/gg) · [live](https://gg-six-lime.vercel.app) | Full-stack gaming platform: tournaments, wallet, matchmaking, chat |
-| Nov&nbsp;2025 | [**Commpiler-A**](https://github.com/anshgupta-456/Commpiler-A) | C-subset compiler: Flex/Bison, three-address IR with backpatching, register allocation, NASM x86 |
-| Aug&nbsp;2025 | [**Zero-G Tracker**](https://github.com/anshgupta-456/Zero-G-Object-Tracker) | YOLOv8s space-station object detection, 85.3% mAP@0.5 · Build With India 2.0 |
-| Apr&nbsp;2025 | [**Grievance Management System**](https://github.com/anshgupta-456/SEC-Project/tree/project-overhaul) | Team project: AI-routed student grievances; I overhauled the backend (JWT auth, admin workflow, tests) |
+| Aug&nbsp;–&nbsp;Sep&nbsp;2026 | 🔒 **RASP** | Shows naive anytime stopping in spiking networks under-covers (0.77 vs 0.90 on DSEC); alpha-spending restores validity |
+| Jul&nbsp;–&nbsp;Aug&nbsp;2026 | [**Aayu OS**](https://github.com/anshgupta-456/aayu_os) | Produce shelf-life "OS" with a physics + vision filter and hash-chained ledger · HackNite Code Royale 2026 |
+| Feb&nbsp;–&nbsp;Mar&nbsp;2026 | [**Geo-Sat**](https://github.com/anshgupta-456/geo-sat) | FastAPI + PostGIS disaster-response API with CNN-BiLSTM and Transformer models |
+| Jan&nbsp;–&nbsp;Feb&nbsp;2026 | 🔒 **Software Bug Prediction** | Replicated a defect-prediction study on 8 NASA / PROMISE datasets, above 76% AUC on each |
+| Jan&nbsp;–&nbsp;Feb&nbsp;2026 | [**SahAI**](https://github.com/anshgupta-456/sahai) | Classroom accessibility: blackboard OCR, Whisper notes, translation, offline on AMD ROCm |
+| Dec&nbsp;2025&nbsp;–&nbsp;Jan&nbsp;2026 | 🔒 **Narrative Consistency Engine** | Claim-based LLM checks of character backstories against whole novels · Kharagpur Data Science Hackathon 2026 |
+| Oct&nbsp;–&nbsp;Nov&nbsp;2025 | [**Commpiler-A**](https://github.com/anshgupta-456/Commpiler-A) | C-subset compiler: Flex/Bison, three-address IR with backpatching, register allocation, NASM x86 |
+| Aug&nbsp;–&nbsp;Sep&nbsp;2025 | [**GG Nexus**](https://github.com/anshgupta-456/gg) · [live](https://gg-six-lime.vercel.app) | Full-stack gaming platform: tournaments, wallet, matchmaking, chat |
+| Jul&nbsp;–&nbsp;Aug&nbsp;2025 | [**Zero-G Tracker**](https://github.com/anshgupta-456/Zero-G-Object-Tracker) | YOLOv8s space-station object detection, 85.3% mAP@0.5 · Build With India 2.0 |
+| Mar&nbsp;–&nbsp;Apr&nbsp;2025 | [**Grievance Management System**](https://github.com/anshgupta-456/SEC-Project/tree/project-overhaul) | Team project: AI-routed student grievances; I overhauled the backend (JWT auth, admin workflow, tests) |
 
 </details>
 
