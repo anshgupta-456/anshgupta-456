@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Career stats: 98.34% RAG retrieval accuracy, 5.6M+ eye-gaze records, 72.49% SNN AUC on CIFAR-100, 4 internships, top 2% at Amazon ML School 2026">
+  <title>Career stats</title>
+  <defs>
+    <pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse">
+      <circle cx="2.5" cy="2.5" r=".9" fill="#fff" opacity=".07"/>
+    </pattern>
+    <filter id="led" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="panel"><rect x="4" y="4" width="1192" height="162" rx="10"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; font-weight: 700; }
+    .jersey { font-family: Impact, 'Anton', 'Arial Narrow Bold', 'Arial Black', sans-serif; }
+    .tile { opacity: 0; animation: pop .6s cubic-bezier(.3, 1.5, .5, 1) forwards; transform-box: fill-box; transform-origin: center; }
+    @keyframes pop { from { opacity: 0; transform: translateY(18px) scale(.92); } to { opacity: 1; transform: none; } }
+    .num { animation: flicker 5s infinite; }
+    @keyframes flicker { 0%, 96%, 100% { opacity: 1; } 97% { opacity: .55; } 98% { opacity: 1; } 99% { opacity: .7; } }
+    .scan { animation: scan 4.5s linear infinite; }
+    @keyframes scan { from { transform: translateX(-300px); } to { transform: translateX(1300px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .tile { opacity: 1; } }
+  </style>
+
+  <rect x="4" y="4" width="1192" height="162" rx="10" fill="#0b0703" stroke="#e8641b" stroke-width="3"/>
+  <rect x="4" y="4" width="1192" height="162" rx="10" fill="url(#dots)"/>
+
+  <g class="mono" font-size="12" letter-spacing="3" fill="#fff8ea" fill-opacity=".55">
+    <text x="28" y="30">BOX SCORE · CAREER STATS</text>
+    <text x="1172" y="30" text-anchor="end">● LIVE</text>
+  </g>
+
+  <g transform="translate(24 44)">
+    <g transform="translate(0 0)"><g class="tile" style="animation-delay:.1s">
+      <rect width="218" height="104" rx="6" fill="#140d06" stroke="#3a2a18" stroke-width="2"/>
+      <text class="jersey num" x="109" y="58" text-anchor="middle" font-size="46" fill="#ff8a3d" filter="url(#led)">98.34%</text>
+      <text class="mono" x="109" y="86" text-anchor="middle" font-size="11.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".7">RAG RETRIEVAL ACC.</text>
+    </g></g>
+    <g transform="translate(232 0)"><g class="tile" style="animation-delay:.25s">
+      <rect width="218" height="104" rx="6" fill="#140d06" stroke="#3a2a18" stroke-width="2"/>
+      <text class="jersey num" x="109" y="58" text-anchor="middle" font-size="46" fill="#ff8a3d" filter="url(#led)">5.6M+</text>
+      <text class="mono" x="109" y="86" text-anchor="middle" font-size="11.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".7">EYE-GAZE RECORDS</text>
+    </g></g>
+    <g transform="translate(464 0)"><g class="tile" style="animation-delay:.4s">
+      <rect width="218" height="104" rx="6" fill="#140d06" stroke="#3a2a18" stroke-width="2"/>
+      <text class="jersey num" x="109" y="58" text-anchor="middle" font-size="46" fill="#ff8a3d" filter="url(#led)">72.49%</text>
+      <text class="mono" x="109" y="86" text-anchor="middle" font-size="11.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".7">SNN AUC · CIFAR-100</text>
+    </g></g>
+    <g transform="translate(696 0)"><g class="tile" style="animation-delay:.55s">
+      <rect width="218" height="104" rx="6" fill="#140d06" stroke="#3a2a18" stroke-width="2"/>
+      <text class="jersey num" x="109" y="58" text-anchor="middle" font-size="46" fill="#ff8a3d" filter="url(#led)">4</text>
+      <text class="mono" x="109" y="86" text-anchor="middle" font-size="11.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".7">INTERNSHIPS</text>
+    </g></g>
+    <g transform="translate(928 0)"><g class="tile" style="animation-delay:.7s">
+      <rect width="224" height="104" rx="6" fill="#140d06" stroke="#e8641b" stroke-width="2"/>
+      <text class="jersey num" x="112" y="58" text-anchor="middle" font-size="46" fill="#ffc53d" filter="url(#led)">TOP 2%</text>
+      <text class="mono" x="112" y="86" text-anchor="middle" font-size="11.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".7">AMAZON ML SCHOOL '26</text>
+    </g></g>
+  </g>
+
+  <g clip-path="url(#panel)">
+    <rect class="scan" x="0" y="0" width="240" height="170" fill="url(#scan)"/>
+  </g>
+</svg>

@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Player of the game: Shinrai, a local AI workspace and RAG platform running on the ISHIZUE agent harness">
+  <title>Player of the game · Shinrai</title>
+  <defs>
+    <linearGradient id="frame" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="460">
+      <stop offset="0" stop-color="#e8641b"/>
+      <stop offset=".25" stop-color="#ffc53d"/>
+      <stop offset=".45" stop-color="#fff8ea"/>
+      <stop offset=".6" stop-color="#e8641b"/>
+      <stop offset=".8" stop-color="#e0313c"/>
+      <stop offset="1" stop-color="#ffc53d"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 600 230" to="360 600 230" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8860b"/>
+      <stop offset=".35" stop-color="#ffe58a"/>
+      <stop offset=".5" stop-color="#fff6cf"/>
+      <stop offset=".7" stop-color="#d4a017"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+    <linearGradient id="slab" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb26b"/>
+      <stop offset=".55" stop-color="#e8641b"/>
+      <stop offset="1" stop-color="#b64c11"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#e8641b" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#e8641b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="inner"><rect x="8" y="8" width="1184" height="444" rx="10"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; font-weight: 700; }
+    .jersey { font-family: Impact, 'Anton', 'Arial Narrow Bold', 'Arial Black', sans-serif; }
+    .body { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+    .sheen { animation: sheen 6s ease-in-out infinite; }
+    @keyframes sheen { 0% { transform: translateX(-400px) skewX(-20deg); } 45%, 100% { transform: translateX(1400px) skewX(-20deg); } }
+    .orbit { transform-origin: 915px 170px; animation: spin 40s linear infinite; }
+    .node { transform-box: fill-box; transform-origin: center; animation: spin 40s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spoke { animation: flow 1.1s linear infinite; }
+    .up { animation: up .9s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: 28; } }
+    @keyframes up { to { stroke-dashoffset: -26; } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
+    @keyframes ring { from { transform: scale(.85); opacity: 1; } to { transform: scale(1.4); opacity: 0; } }
+    .rise { opacity: 0; animation: rise .6s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .rise { opacity: 1; } }
+  </style>
+
+  <rect width="1200" height="460" rx="14" fill="url(#frame)"/>
+  <rect x="8" y="8" width="1184" height="444" rx="10" fill="#120c05"/>
+  <rect x="660" y="8" width="532" height="444" fill="url(#glow)"/>
+  <line x1="660" y1="20" x2="660" y2="440" stroke="#e8641b" stroke-opacity=".35" stroke-width="3"/>
+
+  <g clip-path="url(#inner)">
+    <rect class="sheen" x="0" y="0" width="220" height="460" fill="url(#sheen)"/>
+  </g>
+
+  <!-- left: the story -->
+  <g transform="translate(44 34)">
+    <rect width="236" height="30" fill="url(#foil)" stroke="#1a1208" stroke-width="2"/>
+    <text x="118" y="20" text-anchor="middle" class="mono" font-size="13" letter-spacing="3" fill="#1a1208">★ PLAYER OF THE GAME</text>
+    <text x="252" y="20" class="mono" font-size="12.5" letter-spacing="2" fill="#fff8ea" fill-opacity=".6">JUL – SEP 2026 · AI SYSTEMS · PROPRIETARY CODE</text>
+  </g>
+
+  <text x="50" y="152" class="jersey" font-size="92" letter-spacing="2" fill="#fff8ea" fill-opacity=".12">SHINRAI</text>
+  <text x="44" y="146" class="jersey" font-size="92" letter-spacing="2" fill="#e8641b">SHINRAI</text>
+  <text x="46" y="178" class="mono" font-size="14" letter-spacing="2" fill="#fff8ea" fill-opacity=".75">LOCAL AI WORKSPACE &amp; RAG PLATFORM · RUNS ON ISHIZUE</text>
+
+  <g class="body" font-size="16.5" fill="#fff8ea">
+    <g class="rise" style="animation-delay:.2s">
+      <rect x="46" y="208" width="9" height="9" fill="#e8641b" transform="rotate(45 50.5 212.5)"/>
+      <text x="66" y="218">On-prem, bilingual (JA / EN) agentic workspace: multi-model and</text>
+      <text x="66" y="241">autonomous agents with persistent memory, all on local LLMs.</text>
+    </g>
+    <g class="rise" style="animation-delay:.35s">
+      <rect x="46" y="263" width="9" height="9" fill="#e8641b" transform="rotate(45 50.5 267.5)"/>
+      <text x="66" y="273">CAD intelligence: drawing review, design workspace and engineering review.</text>
+    </g>
+    <g class="rise" style="animation-delay:.5s">
+      <rect x="46" y="295" width="9" height="9" fill="#e8641b" transform="rotate(45 50.5 299.5)"/>
+      <text x="66" y="305">Hybrid RAG over 10K+ chunks: BGE-M3 · BM25 · RRF · cross-encoder reranking.</text>
+    </g>
+    <g class="rise" style="animation-delay:.65s">
+      <rect x="46" y="327" width="9" height="9" fill="#e8641b" transform="rotate(45 50.5 331.5)"/>
+      <text x="66" y="337">Runs on ISHIZUE, the plugin-first agent harness I built underneath it.</text>
+    </g>
+  </g>
+
+  <g transform="translate(46 366)">
+    <rect width="168" height="54" rx="4" fill="#0b0703" stroke="#3a2a18" stroke-width="2"/>
+    <text x="84" y="30" text-anchor="middle" class="jersey" font-size="27" fill="#ff8a3d">~98.34%</text>
+    <text x="84" y="46" text-anchor="middle" class="mono" font-size="10" letter-spacing="2" fill="#fff8ea" fill-opacity=".6">RETRIEVAL ACC.</text>
+    <g transform="translate(180 0)">
+      <rect width="120" height="54" rx="4" fill="#0b0703" stroke="#3a2a18" stroke-width="2"/>
+      <text x="60" y="30" text-anchor="middle" class="jersey" font-size="27" fill="#ff8a3d">10K+</text>
+      <text x="60" y="46" text-anchor="middle" class="mono" font-size="10" letter-spacing="2" fill="#fff8ea" fill-opacity=".6">CHUNKS</text>
+    </g>
+    <g transform="translate(312 0)">
+      <rect width="132" height="54" rx="4" fill="#0b0703" stroke="#3a2a18" stroke-width="2"/>
+      <text x="66" y="30" text-anchor="middle" class="jersey" font-size="27" fill="#ff8a3d">JA / EN</text>
+      <text x="66" y="46" text-anchor="middle" class="mono" font-size="10" letter-spacing="2" fill="#fff8ea" fill-opacity=".6">BILINGUAL</text>
+    </g>
+  </g>
+
+  <!-- right: Shinrai on its ISHIZUE foundation -->
+  <g fill="none" stroke="#ffc53d" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 10">
+    <path class="up" d="M915 342 L915 214"/>
+    <path class="up" d="M805 342 Q 805 250 877 196"/>
+    <path class="up" d="M1025 342 Q 1025 250 953 196"/>
+  </g>
+  <circle cx="915" cy="170" r="110" fill="none" stroke="#fff8ea" stroke-opacity=".14" stroke-width="2" stroke-dasharray="4 8"/>
+  <g class="orbit">
+    <g stroke="#e8641b" stroke-width="2" stroke-dasharray="3 11" stroke-linecap="round">
+      <line class="spoke" x1="915" y1="170" x2="915" y2="60"/>
+      <line class="spoke" x1="915" y1="170" x2="1010.3" y2="115"/>
+      <line class="spoke" x1="915" y1="170" x2="1010.3" y2="225"/>
+      <line class="spoke" x1="915" y1="170" x2="915" y2="280"/>
+      <line class="spoke" x1="915" y1="170" x2="819.7" y2="225"/>
+      <line class="spoke" x1="915" y1="170" x2="819.7" y2="115"/>
+    </g>
+    <g class="mono" font-size="11.5" letter-spacing="1" text-anchor="middle">
+      <g transform="translate(915 60)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#1a1208" stroke="#e8641b" stroke-width="2"/><text y="5" fill="#fff8ea">HYBRID RAG</text></g></g>
+      <g transform="translate(1010.3 115)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#e8641b" stroke="#fff8ea" stroke-width="2"/><text y="5" fill="#1a1208">CAD DRAWINGS</text></g></g>
+      <g transform="translate(1010.3 225)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#1a1208" stroke="#e8641b" stroke-width="2"/><text y="5" fill="#fff8ea">AGENTS</text></g></g>
+      <g transform="translate(915 280)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#1a1208" stroke="#e8641b" stroke-width="2"/><text y="5" fill="#fff8ea">MEMORY</text></g></g>
+      <g transform="translate(819.7 225)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#1a1208" stroke="#e8641b" stroke-width="2"/><text y="5" fill="#fff8ea">LOCAL LLMS</text></g></g>
+      <g transform="translate(819.7 115)"><g class="node"><rect x="-54" y="-15" width="108" height="30" rx="4" fill="#1a1208" stroke="#e8641b" stroke-width="2"/><text y="5" fill="#fff8ea">DOCUMENTS</text></g></g>
+    </g>
+  </g>
+  <circle class="ring" cx="915" cy="170" r="48" fill="none" stroke="#e8641b" stroke-width="3"/>
+  <circle cx="915" cy="170" r="42" fill="#fff8ea" stroke="#e8641b" stroke-width="4"/>
+  <text x="915" y="174" text-anchor="middle" class="jersey" font-size="19" letter-spacing="1" fill="#1a1208">SHINRAI</text>
+  <text x="915" y="189" text-anchor="middle" class="mono" font-size="8" letter-spacing="1.5" fill="#b64c11">WORKSPACE</text>
+
+  <g transform="translate(705 342)">
+    <rect width="420" height="76" rx="6" fill="url(#slab)" stroke="#fff8ea" stroke-width="3"/>
+    <text x="16" y="28" class="jersey" font-size="20" letter-spacing="1" fill="#1a1208">礎 ISHIZUE</text>
+    <text x="404" y="26" text-anchor="end" class="mono" font-size="9.5" letter-spacing="1.5" fill="#1a1208">AGENT HARNESS · FOUNDATION</text>
+    <g class="mono" font-size="10.5" letter-spacing="1" text-anchor="middle" fill="#fff8ea">
+      <rect x="14" y="40" width="90" height="24" rx="3" fill="#1a1208"/><text x="59" y="56">MODELS</text>
+      <rect x="114" y="40" width="90" height="24" rx="3" fill="#1a1208"/><text x="159" y="56">TOOLS</text>
+      <rect x="214" y="40" width="90" height="24" rx="3" fill="#1a1208"/><text x="259" y="56">SKILLS</text>
+      <rect x="314" y="40" width="92" height="24" rx="3" fill="#1a1208"/><text x="360" y="56">WORKFLOWS</text>
+    </g>
+  </g>
+</svg>

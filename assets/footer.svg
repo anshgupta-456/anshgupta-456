@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Final buzzer: thanks for scouting. Let's run a play at guptansh.vercel.app">
+  <title>Thanks for scouting</title>
+  <defs>
+    <pattern id="dots" width="5" height="5" patternUnits="userSpaceOnUse">
+      <circle cx="2.5" cy="2.5" r=".9" fill="#fff" opacity=".07"/>
+    </pattern>
+    <radialGradient id="buzz" cx=".38" cy=".32" r=".8">
+      <stop offset="0" stop-color="#ff7a7a"/>
+      <stop offset=".5" stop-color="#e0313c"/>
+      <stop offset="1" stop-color="#8e141c"/>
+    </radialGradient>
+    <filter id="led" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; font-weight: 700; }
+    .jersey { font-family: Impact, 'Anton', 'Arial Narrow Bold', 'Arial Black', sans-serif; }
+    .blink { animation: blink 1s steps(2, start) infinite; }
+    @keyframes blink { to { visibility: hidden; } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 1.6s ease-out infinite; }
+    @keyframes pulse { from { transform: scale(1); opacity: .8; } to { transform: scale(1.9); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="4" y="4" width="1192" height="162" rx="10" fill="#0b0703" stroke="#e8641b" stroke-width="3"/>
+  <rect x="4" y="4" width="1192" height="162" rx="10" fill="url(#dots)"/>
+
+  <g transform="translate(40 40)">
+    <rect width="170" height="90" rx="6" fill="#140d06" stroke="#3a2a18" stroke-width="2"/>
+    <text x="85" y="28" text-anchor="middle" class="mono" font-size="12" letter-spacing="4" fill="#fff8ea" fill-opacity=".55">FINAL</text>
+    <text x="85" y="72" text-anchor="middle" class="jersey blink" font-size="40" fill="#ff5252" filter="url(#led)">00:00</text>
+  </g>
+
+  <text x="600" y="88" text-anchor="middle" class="jersey" font-size="56" letter-spacing="3" fill="#fff8ea">THANKS FOR SCOUTING</text>
+  <text x="600" y="124" text-anchor="middle" class="mono" font-size="15" letter-spacing="4" fill="#e8641b">LET'S RUN A PLAY → GUPTANSH.VERCEL.APP</text>
+
+  <g transform="translate(1100 85)">
+    <circle class="pulse" r="34" fill="none" stroke="#e0313c" stroke-width="4"/>
+    <circle r="36" fill="#1a1208"/>
+    <circle r="28" fill="url(#buzz)" stroke="#1a1208" stroke-width="3"/>
+    <text y="6" text-anchor="middle" class="jersey" font-size="15" letter-spacing="1" fill="#fff8ea">BUZZ</text>
+  </g>
+</svg>
