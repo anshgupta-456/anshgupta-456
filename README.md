@@ -46,9 +46,9 @@ Backend and AI engineer with internship and research experience in **retrieval-a
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/anshgupta-456/spendsentinel">SpendSentinel</a></b> · <sub>Oct – Nov 2026</sub> · <a href="https://anshgupta-456.github.io/spendsentinel/">live ▶</a><br/>
-      Audit analytics on 51,417 UK government payments (£49.65bn): 17 data-quality rules, reconciled to the penny, 457 possible duplicate payments flagged in SQL, on a dashboard refreshed monthly.<br/>
-      <code>Python</code> <code>DuckDB</code> <code>SQL</code> <code>pandas</code>
+      <b><a href="https://github.com/anshgupta-456/spendsentinel">SpendSentinel</a></b> · <sub>Oct – Nov 2026</sub> · <a href="https://anshgupta-456.github.io/spendsentinel/">live ▶</a> · <a href="https://public.tableau.com/app/profile/ansh.gupta8532/viz/SpendSentinel/Overview">Tableau ▶</a><br/>
+      Audit analytics on 51,417 UK government payments (£49.65bn): 17 data-quality rules, reconciled to the penny, 457 possible duplicate payments flagged in SQL, published to a monthly-refreshed dashboard and Tableau Public.<br/>
+      <code>Python</code> <code>DuckDB</code> <code>SQL</code> <code>Tableau</code>
     </td>
     <td valign="top">
       <b><a href="https://github.com/anshgupta-456/FitBudd">FitBudd</a></b> · <sub>Jun – Aug 2025</sub> · <a href="https://fit-budd-ten.vercel.app">live ▶</a><br/>
@@ -106,7 +106,7 @@ Backend and AI engineer with internship and research experience in **retrieval-a
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,matlab&theme=dark" alt="Languages"/><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,express,postgres,mysql,mongodb,sqlite&theme=dark" alt="Backend and databases"/><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="Machine learning"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,git,linux,aws,gcp&theme=dark" alt="Web, cloud and tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,githubactions,git,linux,aws,gcp,vercel&theme=dark" alt="Web, cloud and tools"/>
 </p>
 
 <p align="center">
@@ -120,6 +120,18 @@ Backend and AI engineer with internship and research experience in **retrieval-a
   <img src="https://img.shields.io/badge/Ollama-1A1208?style=flat-square" alt="Ollama"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-1A1208?style=flat-square&logo=huggingface" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/SNNs%20%C2%B7%20GNNs-1A1208?style=flat-square" alt="SNNs and GNNs"/>
+  <img src="https://img.shields.io/badge/DuckDB-1A1208?style=flat-square" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/Tableau-1A1208?style=flat-square" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/PostGIS-1A1208?style=flat-square" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/JWT%20%26%20OIDC-1A1208?style=flat-square" alt="JWT & OIDC"/>
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-1A1208?style=flat-square" alt="LoRA / QLoRA"/>
+  <img src="https://img.shields.io/badge/FAISS-1A1208?style=flat-square" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Quantization-1A1208?style=flat-square" alt="Quantization"/>
+  <img src="https://img.shields.io/badge/Whisper-1A1208?style=flat-square" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/YOLOv8-1A1208?style=flat-square" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Conformal%20Prediction-1A1208?style=flat-square" alt="Conformal Prediction"/>
+  <img src="https://img.shields.io/badge/pytest-1A1208?style=flat-square" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Flex%20%26%20Bison-1A1208?style=flat-square" alt="Flex & Bison"/>
 </p>
 
 ### 🏆 Trophy case
