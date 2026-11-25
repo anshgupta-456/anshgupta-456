@@ -46,8 +46,8 @@ Backend and AI engineer with internship and research experience in **retrieval-a
   </tr>
   <tr>
     <td valign="top">
-      <b>🔒 SpendSentinel</b> · <sub>Oct – Nov 2026</sub><br/>
-      Audit analytics on 51,417 UK government payments (£49.65bn): 17 data-quality rules, reconciled to the penny, 457 possible duplicate payments flagged in SQL.<br/>
+      <b><a href="https://github.com/anshgupta-456/spendsentinel">SpendSentinel</a></b> · <sub>Oct – Nov 2026</sub> · <a href="https://anshgupta-456.github.io/spendsentinel/">live ▶</a><br/>
+      Audit analytics on 51,417 UK government payments (£49.65bn): 17 data-quality rules, reconciled to the penny, 457 possible duplicate payments flagged in SQL, on a dashboard refreshed monthly.<br/>
       <code>Python</code> <code>DuckDB</code> <code>SQL</code> <code>pandas</code>
     </td>
     <td valign="top">
@@ -85,7 +85,7 @@ Backend and AI engineer with internship and research experience in **retrieval-a
 | Oct&nbsp;–&nbsp;Nov&nbsp;2025 | [**Commpiler-A**](https://github.com/anshgupta-456/Commpiler-A) | C-subset compiler: Flex/Bison, three-address IR with backpatching, register allocation, NASM x86 |
 | Aug&nbsp;–&nbsp;Sep&nbsp;2025 | [**GG Nexus**](https://github.com/anshgupta-456/gg) · [live](https://gg-six-lime.vercel.app) | Full-stack gaming platform: tournaments, wallet, matchmaking, chat |
 | Jul&nbsp;–&nbsp;Aug&nbsp;2025 | [**Zero-G Tracker**](https://github.com/anshgupta-456/Zero-G-Object-Tracker) | YOLOv8s space-station object detection, 85.3% mAP@0.5 · Build With India 2.0 |
-| Mar&nbsp;–&nbsp;Apr&nbsp;2025 | [**Grievance Management System**](https://github.com/anshgupta-456/SEC-Project/tree/project-overhaul) | Team project: AI-routed student grievances; I overhauled the backend (JWT auth, admin workflow, tests) |
+| Mar&nbsp;–&nbsp;Apr&nbsp;2025 | [**Grievance Management System**](https://github.com/anshgupta-456/SEC-Project) · [live](https://grievance-hub-83u2.onrender.com/) | Team project: AI-routed student grievances; I rebuilt it end to end (JWT auth, admin workflow, new frontend, Render deploy) |
 
 </details>
 
